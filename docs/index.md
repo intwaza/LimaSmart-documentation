@@ -1,30 +1,11 @@
-<!-- # Welcome to MkDocs
-
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
-
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files. -->
-
 
 # <p style= "font-size: 30px; font-family: verdana"> LIMA SMART </p>
 
 <p style= "font-family: verdana"> Lima Smart is a smart farming project that intends to improve the quality and quantity of yields for Kenyan small-holder farmers while using smart irrigation.</p>
 
-<br>
 
 ## <p style= " font-size: 25px; font-family: verdana"> Documents we will need: </p>
-<br>
+
 
 #### <p style= "font-size: 20px; font-family: verdana"> Manuals </p>
 * <p style= "font-family: verdana"> User Manual : It will assist users to set up the farm. </p>

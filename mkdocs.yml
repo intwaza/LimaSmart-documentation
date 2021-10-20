@@ -1,2 +1,16 @@
 site_name: My Docs
 
+site_url: https://example.com/
+
+nav:
+    - Home: index.md
+
+markdown_extensions:
+    - attr_list
+
+theme:
+    nav_style: dark
+    name: material
+
+
+
