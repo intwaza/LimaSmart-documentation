@@ -23,6 +23,6 @@
 <p style= "font-family: verdana"> It will enable us assure both quality as a process and quality documents as a result of any quality processes implemented.</p>
 
 
-#### <p style= "font-size: 25px;font-family: verdana"> Reports </p>
+#### <p style= "font-size: 20px; font-family: verdana"> Reports </p>
 
 <p style= "font-family: verdana"> Reports will provide important detail that can be used to help develop future forecasts, marketing plans, guide budget planning and improve decision-making. They will also enable us to track progress and growth, identify trends or any irregularities that may need iterations. </p>
